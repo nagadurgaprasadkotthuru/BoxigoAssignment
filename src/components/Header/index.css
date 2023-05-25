@@ -1,0 +1,26 @@
+.header-bg-container {
+}
+
+.header-nav-items-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 0px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding: 15px 20px 15px 12px;
+  display: flex;
+  align-items: center;
+}
+
+.react-icon {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+}

@@ -1,0 +1,54 @@
+.inventory-item {
+  border-radius: 2px;
+  list-style-type: none;
+  margin: 0px;
+  margin-bottom: 4px;
+  padding: 0px;
+  width: 100%;
+}
+
+.inventory-item-container {
+  background-color: #c5c5c7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 3px 20px 3px 20px;
+}
+
+.inventory-item-heading {
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin: 4px 0px 4px 0px;
+}
+
+.inventory-item-span {
+  background-color: #fa0202;
+  color: #ffffff;
+  font-size: 12px;
+  margin-left: 10px;
+  padding: 3px 5px 3px 5px;
+  border-radius: 20px;
+}
+
+.drop-down-button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.drop-down-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.drop-down-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.red-color {
+  color: #fa0202;
+}

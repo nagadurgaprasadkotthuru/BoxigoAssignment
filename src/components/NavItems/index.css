@@ -1,0 +1,20 @@
+.nav-item {
+  list-style-type: none;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding: 12px 20px 12px 10px;
+  display: flex;
+  align-items: center;
+  margin: 10px 5px 10px 0px;
+}
+
+.active {
+  border-left: 5px solid #fa0202;
+}
+
+.react-icon {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+}

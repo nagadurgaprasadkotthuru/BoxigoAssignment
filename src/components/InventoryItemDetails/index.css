@@ -1,0 +1,31 @@
+.inventory-item-details-container {
+}
+
+.inventory-item-details-heading {
+  font-family: 'Roboto';
+}
+
+.items-container2 {
+  padding-left: 0px;
+}
+
+.list-element2 {
+  list-style-type: none;
+}
+
+.display-name-type-options-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.display-name {
+  font-size: 12px;
+  width: 90px;
+}
+
+.display-type {
+  font-size: 12px;
+  width: 90px;
+  font-weight: 500;
+}

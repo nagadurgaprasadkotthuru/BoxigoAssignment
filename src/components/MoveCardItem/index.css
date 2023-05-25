@@ -1,0 +1,311 @@
+.move-list-item {
+  list-style-type: none;
+  margin: 40px 0px 40px 0px;
+  border-bottom: 2px solid #a7a8ab;
+  padding-bottom: 10px;
+}
+
+.list-container {
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0px 15px 0px;
+}
+
+.from-container {
+  width: 38%;
+}
+
+.from-heading {
+  margin: 0px 0px 5px 0px;
+}
+
+.from {
+  margin: 0px 0px 5px 0px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.arrow-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0px;
+  border-radius: 30px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 13px 14px 13px 14px;
+}
+
+.arrow-icon {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.to-container {
+  width: 38%;
+}
+
+.to-heading {
+}
+
+.to {
+  margin: 0px 0px 5px 0px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.request-container {
+}
+
+.request-heading {
+}
+
+.request {
+  margin: 0px 0px 5px 0px;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.property-container {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.home-icon {
+}
+
+.property {
+}
+
+.goods-container {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.boxes-icon {
+}
+
+.goods {
+}
+
+.distance-container {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.distance-icon {
+}
+
+.distance {
+}
+
+.date-container {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.date-icon {
+}
+
+.date {
+  margin-right: 8px;
+}
+
+.edit-icon {
+}
+
+.is-flexible-container {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.checkbox-icon {
+}
+
+.is-flexible {
+}
+
+.buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.view-move-details-button {
+  margin-right: 3px;
+  border: 2px solid #fa0202;
+  background-color: transparent;
+  font-size: 12px;
+  font-family: 'Roboto';
+  padding: 8px 26px 8px 26px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+
+.quotes-awaiting-button {
+  border: 2px solid #fa0202;
+  background-color: #fa0202;
+  font-size: 12px;
+  font-family: 'Roboto';
+  padding: 8px 26px 8px 26px;
+  border-radius: 4px;
+  color: #ffffff;
+}
+
+.disclaimer-warning-container {
+  display: flex;
+  align-items: center;
+  margin: 0px 0px 10px 0px;
+}
+
+.warning-icon {
+  margin: 0px;
+}
+
+.small-icons {
+  margin-right: 8px;
+  font-size: 20px;
+}
+
+.disclaimer {
+  margin: 0px;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.disclaimer-span-element {
+  font-weight: 500;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.view-move-container {
+}
+
+.additional-information-heading-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.additional-information-heading {
+  font-family: 'Roboto';
+}
+
+.edit-button {
+  background-color: #000000;
+  border: 0px;
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  border-radius: 4px;
+  padding: 8px 30px 8px 30px;
+}
+
+.test-data {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #4e4d4f;
+}
+
+.existing-house-details-heading {
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.existing-house-details {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.floor-no-container {
+}
+
+.floor-no-heading {
+  margin: 0px;
+}
+
+.floor-no {
+  margin: 0px;
+  margin-top: 8px;
+}
+
+.elevator-container {
+}
+
+.elevator-available-heading {
+  margin: 0px;
+}
+
+.elevator-available {
+  margin: 0px;
+  margin-top: 8px;
+}
+
+.elevator-distance-container {
+}
+
+.elevator-distance-heading {
+  margin: 0px;
+}
+
+.elevator-distance {
+  margin: 0px;
+  margin-top: 8px;
+}
+
+.inventory-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.inventory-heading {
+}
+
+.edit-inventory-button {
+  background-color: #000000;
+  border: 0px;
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  border-radius: 4px;
+  padding: 8px 22px 8px 22px;
+}
+
+.inventory-items-container {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.unordered-list {
+  margin-left: 0px;
+  width: 100%;
+  padding-left: 0px;
+}
+
+.red-color {
+  color: #fa0202;
+}
